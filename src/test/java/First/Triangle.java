@@ -14,6 +14,7 @@ public class Triangle {
 			}
 			System.out.println();
 		}
+		System.out.println("done triangle Pull");
 	}
 
 }
